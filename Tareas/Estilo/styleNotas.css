@@ -1,0 +1,27 @@
+.entrada{
+	background: pink;
+    background-size: cover;   
+	height: 250px;
+	padding-top: 100px;
+    padding-left: 120px;
+}
+
+#titulo{
+	
+}
+
+ #input{
+    
+     height: 40px;
+     width: 800px;  
+     font-size: 25px;
+
+}
+
+#btn{
+   height: 30px;
+   width: 80px;
+}
+
+
+
